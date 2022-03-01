@@ -7,7 +7,7 @@ package javaapplicationgithub;
 
 /**
  *
- * @author 21610
+ * @author TalosFN
  */
 public class JavaApplicationGithub {
 
